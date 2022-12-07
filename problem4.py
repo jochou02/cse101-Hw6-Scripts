@@ -1,5 +1,3 @@
-import csv
-
 with open(f'./Script Outputs/problem4.txt', 'w') as outputFile:
 
     for index in range(100): 
